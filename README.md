@@ -40,7 +40,7 @@
  <br/>
   <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinovative&layout=compact)](https://github.com/jinovative/jinovative)
+ 
   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinovative&show_icons=true&theme=dracula)
